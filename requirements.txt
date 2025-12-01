@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+pyarrow
+pandas
+collections
+
+#to run this project: write this in command prompt
+#streamlit run user_interface.py --client.showSidebarNavigation=False
