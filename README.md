@@ -104,7 +104,7 @@ The UI includes:
 - Real-Time Page (`page2.py`)
 <img width="529" height="245" alt="image" src="https://github.com/user-attachments/assets/0ab5e767-dbc3-4ab0-b734-7c353fbd7616" />
 
-- Sign Up Page (`login.py`)
+- Sign Up Page (`SignUp.py`)
 <img width="529" height="214" alt="image" src="https://github.com/user-attachments/assets/64396298-c0e0-476a-8fc6-cf848f40b01c" />
 
 
